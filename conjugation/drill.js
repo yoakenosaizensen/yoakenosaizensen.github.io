@@ -290,7 +290,7 @@ function generateQuestion() {
     "affirmative": "<span class='first'>make</span> the following <span class='emphasis'>肯定</span>",
     "negative": "<span class='first'>make</span> the following <span class='emphasis'>否定</span>",
     "present": "<span class='first'>convert</span> the following to the <span class='emphasis'>現在時</span>",
-    "past": "<span class='first'>convert</span> the following to the <span class='emphasis'>現在完了形</span>",
+    "past": "<span class='first'>convert</span> the following to the <span class='emphasis'>過去形</span>",
     "plain": "<span class='first'>make</span> the following <span class='emphasis'>普通体</span>",
     "polite": "<span class='first'>make</span> the following <span class='emphasis'>丁寧語</span>",
     "て": "<span class='emphasis first'>add</span> the <span class='emphasis'>て形</span> to the following",
